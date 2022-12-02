@@ -6,9 +6,11 @@ It’s a strict superset of JSON, with the addition of syntactically significant
 
 
 Here is the below YAML file:
+
 <https://yaml.fyi/learn.yaml>
 
 And here is the YAML file converted to JSON:
+
 <https://yaml.do/yaml.fyi/learn.yaml>
 
 
