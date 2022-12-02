@@ -1,10 +1,16 @@
 # YAML.FYI
 
-<https://yaml.fyi/learn.yaml>
-
 ### YAML is a data serialisation language designed to be directly writable and readable by humans.
 
 It’s a strict superset of JSON, with the addition of syntactically significant newlines and indentation, like Python. Unlike Python, however, YAML doesn’t allow literal tab characters for indentation.
+
+
+Here is the below YAML file:
+<https://yaml.fyi/learn.yaml>
+
+And here is the YAML file converted to JSON:
+<https://yaml.do/yaml.fyi/learn.yaml>
+
 
 ```yaml
 ---  # document start
@@ -222,5 +228,3 @@ set2:
 ...  # document end
 ```
 
-
-<https://yaml.do/yaml.fyi/learn.yaml>
